@@ -1,0 +1,29 @@
+[
+    {
+        "nim": 4617010001,
+        "nama": "Adelina Rangkuti",
+        "alamat": "Medan",
+        "telepon": "081111111",
+        "kelas": "TI 5A",
+        "prodi": "TI",
+        "jurusan": "TIK"
+    },
+    {
+        "nim": 4617010025,
+        "nama": "Arifah Fariza",
+        "alamat": "Jakarta Selatan",
+        "telepon": "08222222",
+        "kelas": "TI 5A",
+        "prodi": "TI",
+        "jurusan": "TIK"
+    },
+    {
+        "nim": 4617010020,
+        "nama": "Nely Febrianita",
+        "alamat": "Depok",
+        "telepon": "08333333",
+        "kelas": "TI 5A",
+        "prodi": "TI",
+        "jurusan": "TIK"
+    }
+]
